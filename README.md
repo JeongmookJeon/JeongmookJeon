@@ -6,7 +6,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
-* 🎓 **Education:** 한양대학교 전자공학과 석사 졸업
+* 🎓 **Education:** 전자공학과 석사 졸업
 * 🌱 **Current:** 대한상공회의소(KCCI) '온디바이스 AI 반도체 설계' 과정 교육 이수 중
 * 💼 **Experience:** 전산장교 6년 복무 (EMP 방호 서버실 구축 및 인프라 설계, 네트워크/서버 관리 SOP 수립을 통한 장애율 20% 감소 및 대응 시간 70% 단축)
 * 💡 **Focus:** RISC-V 아키텍처, AXI/APB 버스 프로토콜, UVM(Universal Verification Methodology) 기반의 체계적인 하드웨어 검증 체계 구축에 관심이 많습니다.
