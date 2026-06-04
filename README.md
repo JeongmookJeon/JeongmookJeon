@@ -47,10 +47,3 @@
   * SystemVerilog 및 Verilog를 활용한 RTL 구현
   * 클럭 도메인 교차(CDC) 이슈 고려 및 시뮬레이션 검증
 
-<br>
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브아이디&layout=compact&theme=radium" alt="Top Languages" />
-</div>
