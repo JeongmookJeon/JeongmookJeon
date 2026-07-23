@@ -58,7 +58,7 @@
 
 | 📁 Project Name | 🎯 Category | 📝 Description & Key Roles | 🛠️ Tech Stack |
 | :--- | :---: | :--- | :---: |
-| **[M.A.T.S.](https://github.com/JeongmookJeon/M.A.T.S.-Mobile-Autonomous-Targeting-System-)** | `Robotics & Vision` | Mobile Autonomous Targeting System (모바일 자율 타겟팅 시스템)<br>• 비전 시스템을 활용한 자율 타겟팅 메커니즘 구축 | HTML, C/C++ |
+| **[M.A.T.S.](https://github.com/JeongmookJeon/M.A.T.S.-Mobile-Autonomous-Targeting-System-)** | `Robotics & Vision` | Mobile Autonomous Targeting System (모바일 자율 타겟팅 시스템)<br>• 비전 시스템을 활용한 자율 타겟팅 메커니즘 구축 | SystemVerilog, UVM |
 | **[OnDevice_AI_YOLO_Ollama](https://github.com/JeongmookJeon/OnDevice_AI_YOLO_Ollama_AIVIS)** | `On-Device AI` | YOLO 기반 객체 탐지와 Ollama LLM을 결합한 Edge AI 시스템 구축 | Python, YOLO |
 | **[MicroBlaze_SPI_I2C_UVM](https://github.com/JeongmookJeon/MicroBlaze_SPI_I2C_UVM_Verification)** | `Verification` | AXI 기반 SPI Master/Slave 환경의 검증 체계 구축<br>• UVM 프레임워크 활용 (Agent, Scoreboard, Sequence)<br>• Datapath 검증 및 Verification Plan 수립 | VHDL, UVM |
 | **[SPI_I2C_UVM_Verification](https://github.com/JeongmookJeon/SPI_I2C_UVM_Verification)** | `Verification` | SPI, I2C 프로토콜 블록에 대한 UVM 기반 테스트벤치 구현 | SystemVerilog, UVM |
