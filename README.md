@@ -58,17 +58,14 @@
 
 | 📁 Project Name | 🎯 Category | 📝 Description & Key Roles | 🛠️ Tech Stack |
 | :--- | :---: | :--- | :---: |
-| **[RISC_V_Single_Cycle](https://github.com/JeongmookJeon/RISC_V_Single_Cycle)** | `Architecture` | RISC-V 기반 프로세서 아키텍처 설계 및 검증<br>• Instruction Memory 및 ALU 모듈 설계<br>• AXI 버스 인터페이스 통합 | SystemVerilog |
+| **[M.A.T.S.](https://github.com/JeongmookJeon/M.A.T.S.-Mobile-Autonomous-Targeting-System-)** | `Robotics & Vision` | Mobile Autonomous Targeting System (모바일 자율 타겟팅 시스템)<br>• 비전 시스템을 활용한 자율 타겟팅 메커니즘 구축 | HTML, C/C++ |
+| **[OnDevice_AI_YOLO_Ollama](https://github.com/JeongmookJeon/OnDevice_AI_YOLO_Ollama_AIVIS)** | `On-Device AI` | YOLO 기반 객체 탐지와 Ollama LLM을 결합한 Edge AI 시스템 구축 | Python, YOLO |
 | **[MicroBlaze_SPI_I2C_UVM](https://github.com/JeongmookJeon/MicroBlaze_SPI_I2C_UVM_Verification)** | `Verification` | AXI 기반 SPI Master/Slave 환경의 검증 체계 구축<br>• UVM 프레임워크 활용 (Agent, Scoreboard, Sequence)<br>• Datapath 검증 및 Verification Plan 수립 | VHDL, UVM |
 | **[SPI_I2C_UVM_Verification](https://github.com/JeongmookJeon/SPI_I2C_UVM_Verification)** | `Verification` | SPI, I2C 프로토콜 블록에 대한 UVM 기반 테스트벤치 구현 | SystemVerilog, UVM |
 | **[APB_BUS_Multi_Cycle](https://github.com/JeongmookJeon/APB_BUS_Multi_Cycle)** | `Architecture` | AMBA APB Bus 멀티 사이클 기반 구현 및 트랜잭션 테스트 | SystemVerilog |
-| **[M.A.T.S.](https://github.com/JeongmookJeon/M.A.T.S.-Mobile-Autonomous-Targeting-System-)** | `Robotics & Vision` | Mobile Autonomous Targeting System (모바일 자율 타겟팅 시스템)<br>• 비전 시스템을 활용한 자율 타겟팅 메커니즘 구축 | HTML, C/C++ |
-| **[OnDevice_AI_YOLO_Ollama](https://github.com/JeongmookJeon/OnDevice_AI_YOLO_Ollama_AIVIS)** | `On-Device AI` | YOLO 기반 객체 탐지와 Ollama LLM을 결합한 Edge AI 시스템 구축 | Python, YOLO |
-| **[OV7670_VGA_No_STM32](https://github.com/JeongmookJeon/OV7670_VGA_No_STM32)** | `FPGA Vision` | MCU 의존성 없이 순수 FPGA 로직으로 OV7670 영상 VGA 출력 | SystemVerilog |
+| **[RISC_V_Single_Cycle](https://github.com/JeongmookJeon/RISC_V_Single_Cycle)** | `Architecture` | RISC-V 기반 프로세서 아키텍처 설계 및 검증<br>• Instruction Memory 및 ALU 모듈 설계<br>• AXI 버스 인터페이스 통합 | SystemVerilog |
 | **[SR04_DHT11_UART_FIFO...](https://github.com/JeongmookJeon/SR04_DHT11_UART_FIFO_StopWatch_Watch)** | `Digital Logic` | 데이터 버퍼링/동기화용 FIFO 모듈 및 논리 회로 설계<br>• 클럭 도메인 교차(CDC) 이슈 고려 및 검증 | Verilog |
 | **[UART_Stopwatch_Watch](https://github.com/JeongmookJeon/UART_Stopwatch_Watch)**<br>**[Stopwatch-Watch](https://github.com/JeongmookJeon/Stopwatch-Watch)** | `Digital Logic` | UART 통신 기반 디지털 스톱워치/시계 통합 구현 | Verilog, Tcl |
-| **[AIVIS_YOLO_Basic](https://github.com/JeongmookJeon/AIVIS_YOLO_Basic)**<br>**[AIVSI_YOLO_Ollama](https://github.com/JeongmookJeon/AIVSI_YOLO_Ollama)** | `AI & Vision` | YOLO 알고리즘을 활용한 기본/심화 객체 탐지 알고리즘 분석 및 구현 | Python |
-
 ---
 
 ## 📊 GitHub Stats
