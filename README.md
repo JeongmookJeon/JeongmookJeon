@@ -68,15 +68,4 @@
 | **[UART_Stopwatch_Watch](https://github.com/JeongmookJeon/UART_Stopwatch_Watch)**<br>**[Stopwatch-Watch](https://github.com/JeongmookJeon/Stopwatch-Watch)** | `Digital Logic` | UART 통신 기반 디지털 스톱워치/시계 통합 구현 | Verilog, Tcl |
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongmookJeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JeongmookJeon's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongmookJeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <i>Let's build the future of hardware and AI together!</i>
-</div>
