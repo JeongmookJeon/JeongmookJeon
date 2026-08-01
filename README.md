@@ -24,7 +24,6 @@
 <p>
   <img src="https://img.shields.io/badge/Verilog-101010?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/SystemVerilog-005697?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/UVM-FF6600?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
